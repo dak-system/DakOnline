@@ -63,7 +63,6 @@ For more information, please visit our website: [DakOnline Official Website](#).
 Đỗ Trọng Phụng 0869503593
 
 **Thông tin:**
-- Hoàng Quốc Tuấn: [hoangquoctuan.net](http://hoangquoctuan.net)
-- Quản lý: Công ty thiết kế web tại Đắk Lắk [daksystem.net](http://daksystem.net)
-- Thiết kế website tại Đắk Lắk: [dakdesign.net](http://dakdesign.net)
-
+- [Hoàng Quốc Tuấn](http://hoangquoctuan.net)
+- [Công ty thiết kế web tại Đắk Lắk](http://daksystem.net)
+- [Thiết kế website tại Đắk Lắk](http://dakdesign.net)
